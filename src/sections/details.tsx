@@ -50,7 +50,7 @@ const Details = () => {
                     </FormControl>
                 </GridItem>
                 <GridItem colSpan={2}>
-                    <Checkbox colorScheme="brand" defaultChecked>Ship to Billing Address</Checkbox>
+                    <Checkbox defaultChecked>Ship to Billing Address</Checkbox>
                 </GridItem>
                 <GridItem colSpan={2}>
                     <Button colorScheme="brand" size="lg" w="full">Place Order</Button>
